@@ -1,0 +1,4 @@
+{
+  "extends": "@design-system-from-gabe-brum/ts-config/react.json",
+  "include": ["src"],
+}
