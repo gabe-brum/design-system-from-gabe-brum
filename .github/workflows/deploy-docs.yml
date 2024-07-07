@@ -23,7 +23,7 @@ jobs:
 
       - run: npm run build
         env:
-          TURBO_TOKEN: VLs92gqWF6DrBCL7hBKqvMQ6
+          TURBO_TOKEN: ${{ secrets.VERCEL_TOKEN }}
           TURBO_TEAM: gabriel-brums-projects
 
       - name: Deploy storybook
