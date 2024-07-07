@@ -16,6 +16,7 @@
     "@design-system-from-gabe-brum/eslint-config": "*",
     "@design-system-from-gabe-brum/react": "*",
     "@design-system-from-gabe-brum/tokens": "*",
+    "@storybook/addon-a11y": "^8.1.11",
     "polished": "^4.3.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
